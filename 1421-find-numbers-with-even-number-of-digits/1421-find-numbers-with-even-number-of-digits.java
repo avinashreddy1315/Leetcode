@@ -18,10 +18,7 @@ class Solution {
     public static boolean containDigit(int num){
         int c = 0;
         while(num > 0){
-            if(num % 10 >=0){
-                c++;
-            }
-
+            c++;
             num = num/10;
         }
         if(c%2 == 0){
