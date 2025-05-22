@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/avinashreddy1315/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/avinashreddy1315/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/avinashreddy1315/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/avinashreddy1315/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avinashreddy1315/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/avinashreddy1315/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/avinashreddy1315/Leetcode/tree/master/0035-search-insert-position) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/avinashreddy1315/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
