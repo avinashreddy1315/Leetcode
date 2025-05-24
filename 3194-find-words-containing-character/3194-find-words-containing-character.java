@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> findWordsContaining(String[] words, char x) {
 
-        int[] indices = findContain(words, x);
+        /*int[] indices = findContain(words, x);
 
         // Convert int[] to List<Integer>
         List<Integer> result = new ArrayList<>();
@@ -9,12 +9,22 @@ class Solution {
             result.add(index);
         }
 
-        return result;
+        return result; */
+
+
+        ArrayList<Integer>map = new ArrayList<>();
+        for(int i = 0; i< words.length; i++){
+            if(words[i].indexOf(x) != -1){
+                map.add(i);
+            }
+        }
+
+        return map;
         
     }
 
 
-    public int[] findContain(String[] words, char x){
+   /* public int[] findContain(String[] words, char x){
         int count = 0;
 
         for(String word : words){
@@ -38,5 +48,5 @@ class Solution {
 
 
         return result;
-    }
+    } */
 }
