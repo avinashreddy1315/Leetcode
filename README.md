@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/avinashreddy1315/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/avinashreddy1315/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/avinashreddy1315/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0410-split-array-largest-sum](https://github.com/avinashreddy1315/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/avinashreddy1315/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/avinashreddy1315/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avinashreddy1315/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avinashreddy1315/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/avinashreddy1315/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/avinashreddy1315/Leetcode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/avinashreddy1315/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/avinashreddy1315/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/avinashreddy1315/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avinashreddy1315/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashreddy1315/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/avinashreddy1315/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/avinashreddy1315/Leetcode/tree/master/3194-find-words-containing-character) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/avinashreddy1315/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/avinashreddy1315/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
