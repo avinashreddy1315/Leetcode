@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/avinashreddy1315/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/avinashreddy1315/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avinashreddy1315/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0924-fair-candy-swap](https://github.com/avinashreddy1315/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1185-find-in-mountain-array](https://github.com/avinashreddy1315/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avinashreddy1315/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/avinashreddy1315/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/avinashreddy1315/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/avinashreddy1315/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avinashreddy1315/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0924-fair-candy-swap](https://github.com/avinashreddy1315/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1185-find-in-mountain-array](https://github.com/avinashreddy1315/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/avinashreddy1315/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Math
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/avinashreddy1315/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashreddy1315/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avinashreddy1315/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0924-fair-candy-swap](https://github.com/avinashreddy1315/Leetcode/tree/master/0924-fair-candy-swap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/avinashreddy1315/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashreddy1315/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avinashreddy1315/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0924-fair-candy-swap](https://github.com/avinashreddy1315/Leetcode/tree/master/0924-fair-candy-swap) |
 ## Counting
 |  |
 | ------- |
